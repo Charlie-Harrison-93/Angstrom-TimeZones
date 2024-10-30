@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AA7E52-143F-4084-9375-40A12A026782}|Tests\\Tests.csproj|c:\\users\\charlie.harrison\\documents\\github\\examtest\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AA7E52-143F-4084-9375-40A12A026782}|Tests\\Tests.csproj|solutionrelative:tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AA7E52-143F-4084-9375-40A12A026782}|Tests\\Tests.csproj|c:\\users\\charlie.harrison\\documents\\github\\examtest\\tests\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AA7E52-143F-4084-9375-40A12A026782}|Tests\\Tests.csproj|solutionrelative:tests\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|c:\\users\\charlie.harrison\\documents\\github\\examtest\\application\\countrydatetimemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|solutionrelative:application\\countrydatetimemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|c:\\users\\charlie.harrison\\documents\\github\\examtest\\application\\worldtimeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|solutionrelative:application\\worldtimeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|c:\\users\\charlie.harrison\\documents\\github\\examtest\\application\\worldtimeapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|solutionrelative:application\\worldtimeapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|c:\\users\\charlie.harrison\\documents\\github\\examtest\\application\\worldtimeapiactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6C78780-BDBF-4374-AA28-1A926B6DEB60}|Application\\Application.csproj|solutionrelative:application\\worldtimeapiactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\charlie.harrison\\AppData\\Local\\Temp\\2059046c-33ea-4d85-972f-97c2069638b8_Angstrom QA CSharp Test.zip.8b8\\Tests\\Tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Tests\\Tests.cs",
+              "RelativeToolTip": "Tests\\Tests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwCkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:43:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorldTimeAPIActions.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\WorldTimeAPIActions.cs",
+              "RelativeDocumentMoniker": "Application\\WorldTimeAPIActions.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\WorldTimeAPIActions.cs",
+              "RelativeToolTip": "Application\\WorldTimeAPIActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:49:03.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorldTimeAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\WorldTimeAPIController.cs",
+              "RelativeDocumentMoniker": "Application\\WorldTimeAPIController.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\WorldTimeAPIController.cs",
+              "RelativeToolTip": "Application\\WorldTimeAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:37:58.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryDateTimeModel.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\CountryDateTimeModel.cs",
+              "RelativeDocumentMoniker": "Application\\CountryDateTimeModel.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\CountryDateTimeModel.cs",
+              "RelativeToolTip": "Application\\CountryDateTimeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:31:08.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Tests\\Helpers.cs",
+              "RelativeDocumentMoniker": "Tests\\Helpers.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Tests\\Helpers.cs",
+              "RelativeToolTip": "Tests\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:46:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorldTimeAPIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\WorldTimeAPIResponse.cs",
+              "RelativeDocumentMoniker": "Application\\WorldTimeAPIResponse.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\Documents\\GitHub\\ExamTest\\Application\\WorldTimeAPIResponse.cs",
+              "RelativeToolTip": "Application\\WorldTimeAPIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:47:48.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\charlie.harrison\\AppData\\Local\\Temp\\2059046c-33ea-4d85-972f-97c2069638b8_Angstrom QA CSharp Test.zip.8b8\\Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\2059046c-33ea-4d85-972f-97c2069638b8_Angstrom QA CSharp Test.zip.8b8\\Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\charlie.harrison\\AppData\\Local\\Temp\\2059046c-33ea-4d85-972f-97c2069638b8_Angstrom QA CSharp Test.zip.8b8\\Tests\\Tests.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\2059046c-33ea-4d85-972f-97c2069638b8_Angstrom QA CSharp Test.zip.8b8\\Tests\\Tests.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:14:29.89Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
